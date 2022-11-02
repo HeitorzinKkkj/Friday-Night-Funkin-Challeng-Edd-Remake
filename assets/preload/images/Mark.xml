@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mark.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MarkIdle instance 10000" x="5" y="5" width="326" height="649" frameX="0" frameY="-13" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10001" x="5" y="5" width="326" height="649" frameX="0" frameY="-13" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10002" x="336" y="5" width="321" height="650" frameX="-4" frameY="-13" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10003" x="336" y="5" width="321" height="650" frameX="-4" frameY="-13" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10004" x="662" y="5" width="320" height="658" frameX="-3" frameY="-4" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10005" x="662" y="5" width="320" height="658" frameX="-3" frameY="-4" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10006" x="987" y="5" width="319" height="661" frameX="-4" frameY="-2" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10007" x="987" y="5" width="319" height="661" frameX="-4" frameY="-2" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10008" x="1311" y="5" width="320" height="662" frameX="-3" frameY="0" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10009" x="1311" y="5" width="320" height="662" frameX="-3" frameY="0" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10010" x="1636" y="5" width="319" height="663" frameX="-4" frameY="0" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10011" x="1636" y="5" width="319" height="663" frameX="-4" frameY="0" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10012" x="1311" y="5" width="320" height="662" frameX="-3" frameY="0" frameWidth="326" frameHeight="663"/>
+	<SubTexture name="MarkIdle instance 10013" x="1311" y="5" width="320" height="662" frameX="-3" frameY="0" frameWidth="326" frameHeight="663"/>
+</TextureAtlas>

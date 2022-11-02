@@ -1,0 +1,11 @@
+{
+	"idle_anim": "EddIdle instance 1",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		100,
+		145
+	],
+	"scale": 0.55,
+	"flipX": false,
+	"image": "menuEdd"
+}

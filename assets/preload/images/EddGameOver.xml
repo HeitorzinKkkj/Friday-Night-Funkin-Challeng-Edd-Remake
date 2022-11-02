@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EddGameOver2.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EddGameOver0000" x="5" y="5" width="574" height="669" frameX="-27" frameY="0" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0001" x="584" y="5" width="599" height="669" frameX="0" frameY="0" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0002" x="1188" y="5" width="599" height="662" frameX="0" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0003" x="1792" y="5" width="605" height="662" frameX="-2" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0004" x="1792" y="5" width="605" height="662" frameX="-2" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0005" x="2402" y="5" width="460" height="662" frameX="-3" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0006" x="2402" y="5" width="460" height="662" frameX="-3" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0007" x="2867" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0008" x="2867" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0009" x="3217" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0010" x="3217" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0011" x="2867" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0012" x="2867" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0013" x="3217" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0014" x="3217" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0015" x="3567" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0016" x="3567" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0017" x="3917" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0018" x="4267" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0019" x="4617" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0020" x="4967" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0021" x="5317" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0022" x="5667" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0023" x="6017" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0024" x="6367" y="5" width="345" height="662" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0025" x="6717" y="5" width="358" height="677" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0026" x="6717" y="5" width="358" height="677" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0027" x="7080" y="5" width="359" height="668" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0028" x="7080" y="5" width="359" height="668" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0029" x="7444" y="5" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0030" x="7444" y="5" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0031" x="7808" y="5" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0032" x="7808" y="5" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0033" x="5" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0034" x="5" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0035" x="369" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0036" x="733" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0037" x="1097" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0038" x="1461" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0039" x="1825" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0040" x="2189" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0041" x="2553" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0042" x="2917" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0043" x="3281" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0044" x="3645" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0045" x="4009" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0046" x="4373" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0047" x="4737" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0048" x="5101" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0049" x="5465" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0050" x="5465" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0051" x="5829" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0052" x="5101" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0053" x="6193" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0054" x="6557" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0055" x="6921" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0056" x="7285" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddGameOver0057" x="7649" y="687" width="359" height="672" frameX="-118" frameY="-1" frameWidth="607" frameHeight="678"/>
+	<SubTexture name="EddRetryConfirm0000" x="5" y="1364" width="359" height="672" frameX="0" frameY="-36" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0001" x="369" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0002" x="733" y="1364" width="359" height="708"/>
+	<SubTexture name="EddRetryConfirm0003" x="1097" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0004" x="1461" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0005" x="1825" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0006" x="2189" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0007" x="2553" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0008" x="2917" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0009" x="3281" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0010" x="3645" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0011" x="4009" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0012" x="4373" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0013" x="4737" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0014" x="5101" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0015" x="5465" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0016" x="5829" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0017" x="6193" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0018" x="6557" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0019" x="6921" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0020" x="7285" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0021" x="7649" y="1364" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0022" x="5" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0023" x="5" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0024" x="369" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0025" x="369" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0026" x="733" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0027" x="733" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0028" x="369" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0029" x="369" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0030" x="733" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0031" x="733" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0032" x="369" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryConfirm0033" x="369" y="2077" width="359" height="678" frameX="0" frameY="-30" frameWidth="359" frameHeight="708"/>
+	<SubTexture name="EddRetryLoop0000" x="1097" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0001" x="1461" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0002" x="1825" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0003" x="2189" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0004" x="2553" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0005" x="2917" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0006" x="3281" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0007" x="3645" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0008" x="4009" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0009" x="4009" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0010" x="4373" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0011" x="4373" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0012" x="4009" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0013" x="4009" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0014" x="4373" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0015" x="4373" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0016" x="4009" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0017" x="1097" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0018" x="1461" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0019" x="1825" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0020" x="2189" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0021" x="2553" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0022" x="2917" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0023" x="3281" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0024" x="3645" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0025" x="4009" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0026" x="4009" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0027" x="4373" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0028" x="4373" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0029" x="4009" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0030" x="4009" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0031" x="4373" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0032" x="4373" y="2077" width="359" height="672"/>
+	<SubTexture name="EddRetryLoop0033" x="4009" y="2077" width="359" height="672"/>
+</TextureAtlas>

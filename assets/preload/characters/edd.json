@@ -1,0 +1,567 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EddIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "EddIdle"
+		},
+		{
+			"offsets": [
+				20,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EddLeft"
+		},
+		{
+			"offsets": [
+				20,
+				3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "EddLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EddDown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				17,
+				-58
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "EddDown",
+			"indices": [
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EddUp",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				33
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "EddUp",
+			"indices": [
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EddRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				9
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "EddRight",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				7
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "EddHEY!!",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				16,
+				7
+			],
+			"anim": "hey-loop",
+			"fps": 24,
+			"name": "EddHEY!!",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "EddSideIdle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt-loop",
+			"fps": 24,
+			"name": "EddSideIdle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				3
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "EddSideLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				3
+			],
+			"anim": "singLEFT-alt-loop",
+			"fps": 24,
+			"name": "EddSideLeft",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-58
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "EddSideDown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				21,
+				-58
+			],
+			"anim": "singDOWN-alt-loop",
+			"fps": 24,
+			"name": "EddSideDown",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				38
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "EddSideUp",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-19,
+				38
+			],
+			"anim": "singUP-alt-loop",
+			"fps": 24,
+			"name": "EddSideUp",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "EddSideRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "singRIGHT-alt-loop",
+			"fps": 24,
+			"name": "EddSideRight",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				13
+			],
+			"anim": "turn",
+			"fps": 24,
+			"name": "EddTurnAround",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				13
+			],
+			"anim": "turn-loop",
+			"fps": 24,
+			"name": "EddTurnAround",
+			"indices": [
+				6,
+				6,
+				12,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-59
+			],
+			"anim": "lookDown",
+			"fps": 24,
+			"name": "EddGroundShaking",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				60,
+				-59
+			],
+			"anim": "lookDown-loop",
+			"fps": 24,
+			"name": "EddGroundShaking",
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-48
+			],
+			"anim": "lookUp",
+			"fps": 24,
+			"name": "EddTurnToTord",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				63,
+				-48
+			],
+			"anim": "lookUp-loop",
+			"fps": 24,
+			"name": "EddTurnToTord",
+			"indices": [
+				6,
+				6,
+				7,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				1
+			],
+			"anim": "lookTord",
+			"fps": 24,
+			"name": "EddLookingUp",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				1
+			],
+			"anim": "lookTom",
+			"fps": 24,
+			"name": "EddLookingUp",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				1
+			],
+			"anim": "lookTom-loop",
+			"fps": 24,
+			"name": "EddLookingUp",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singLEFT-alt-alt",
+			"fps": 24,
+			"name": "EddEnterLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singLEFT-alt-alt-loop",
+			"fps": 24,
+			"name": "EddEnterLeft",
+			"indices": [
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singDOWN-alt-alt",
+			"fps": 24,
+			"name": "EddEnterDown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singDOWN-alt-alt-loop",
+			"fps": 24,
+			"name": "EddEnterDown",
+			"indices": [
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singUP-alt-alt",
+			"fps": 24,
+			"name": "EddEnterUp",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singUP-alt-alt-loop",
+			"fps": 24,
+			"name": "EddEnterUp",
+			"indices": [
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singRIGHT-alt-alt",
+			"fps": 24,
+			"name": "EddEnterRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singRIGHT-alt-alt-loop",
+			"fps": 24,
+			"name": "EddEnterRight",
+			"indices": [
+				2,
+				3,
+				4
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Edd",
+	"position": [
+		-10,
+		130
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

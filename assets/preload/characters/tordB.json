@@ -1,0 +1,197 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TordIdle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "TordIdle",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TordLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TordDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				75
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TordUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TordRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				21
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "TordHa0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "pissed",
+			"fps": 24,
+			"name": "TordPissed",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "pissed-loop",
+			"fps": 24,
+			"name": "TordPissed",
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				24
+			],
+			"anim": "buttonPress",
+			"fps": 24,
+			"name": "TordButtonPress",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				38
+			],
+			"anim": "harpoonShot",
+			"fps": 24,
+			"name": "TordHarpoonShot",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				38
+			],
+			"anim": "harpoonShot-loop",
+			"fps": 24,
+			"name": "TordHarpoonShot",
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				33
+			],
+			"anim": "ohNo",
+			"fps": 24,
+			"name": "TordOhNo",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				33
+			],
+			"anim": "ohNo-loop",
+			"fps": 24,
+			"name": "TordOhNo",
+			"indices": [
+				10,
+				10,
+				11,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TordAll",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tord",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		18,
+		76
+	],
+	"camera_position": [
+		-190,
+		-20
+	],
+	"sing_duration": 2,
+	"scale": 1.01
+}
